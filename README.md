@@ -22,4 +22,4 @@
 
 ### mouseenter/mouseleave
 - calender / space.culture에 hover 효과
-- 성능 상 css로 하는 것이 좋지만 JS 연습 삼아 구현
+- css로 충분히 구현가능해 오버 엔지니어링이나, JS를 익히기 위해 구현
