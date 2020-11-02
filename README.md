@@ -3,10 +3,17 @@
 
 <br/>
 
-# JavaScript 구현사항
+# 구현사항
+
+## HTML
+
+- 메인페이지
+- 상단 검색페이지
 
 <br/>
 
+## JavaScript
+ 
 ### getBoundingClientRect
 - Nav hover시 해당 li의 width만큼 border-bottom으로 강조
 
